@@ -1,4 +1,4 @@
-# Digit-Recognition
+# Handwritten Digit Recognition
 First attempt at computer vision on MNIST Handwritten Digit dataset.
 
 The required dataset can be found on Kaggle.
